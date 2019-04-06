@@ -1,0 +1,24 @@
+{
+    "baseUri": "/php-and-react",
+    "pages": [
+        {
+            "name": "frontpage",
+            "title": "Frontpage",
+            "description": "Frontpage description",
+            "keywords": "Frontpage keywords"
+        },
+        {
+            "name": "contact",
+            "title": "Contact",
+            "description": "Contact description",
+            "keywords": "Contact keywords"
+        },
+        {
+            "name": "404",
+            "title": "Page not found",
+            "description": "Page not found",
+            "keywords": "Page not found"
+        }
+    ],
+    "S3BucketUrl": "https://php-and-react.s3.eu-central-1.amazonaws.com/"
+}
